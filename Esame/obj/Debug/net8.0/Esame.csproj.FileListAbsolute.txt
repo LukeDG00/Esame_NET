@@ -1,0 +1,14 @@
+C:\Users\lucad\source\repos\Esame\Esame\bin\Debug\net8.0\Esame.exe
+C:\Users\lucad\source\repos\Esame\Esame\bin\Debug\net8.0\Esame.deps.json
+C:\Users\lucad\source\repos\Esame\Esame\bin\Debug\net8.0\Esame.runtimeconfig.json
+C:\Users\lucad\source\repos\Esame\Esame\bin\Debug\net8.0\Esame.dll
+C:\Users\lucad\source\repos\Esame\Esame\bin\Debug\net8.0\Esame.pdb
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\Esame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\Esame.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\Esame.AssemblyInfo.cs
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\Esame.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\Esame.dll
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\refint\Esame.dll
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\Esame.pdb
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\Esame.genruntimeconfig.cache
+C:\Users\lucad\source\repos\Esame\Esame\obj\Debug\net8.0\ref\Esame.dll
